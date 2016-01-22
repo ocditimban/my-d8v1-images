@@ -1,2 +1,2 @@
-FROM drupal8:test
+FROM wordpress:latest
 RUN apt-get update
